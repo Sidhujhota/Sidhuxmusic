@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://telegra.ph/file/4d7a997a6c8c4eb406829.jpg">
+  <img src="https://graph.org/file/c5726d83da44f7cfb373c.jpg">
 </p>
 
 
@@ -156,7 +156,7 @@ hieght="38.30" /></a>
 - Get your [Necessary Variables](https://github.com/BikashHalderNew/Bgtplayer/blob/bikash/Internal)
 
 - Upgrade and Update by :
-``sudo apt-get update && sudo apt-get upgrade -y``
+``sudo apt-get update && sdo apt-get upgrade -y``
 - Install Ffmpeg by :
 ``sudo apt-get install python3-pip ffmpeg -y``
 - Install required packages by :
